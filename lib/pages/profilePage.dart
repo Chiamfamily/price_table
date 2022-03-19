@@ -15,7 +15,7 @@ class _profilePageState extends State<profilePage> {
         title: const Text('Profile'),
       ),
       body: Column(
-        children: [
+        children: const [
           Center(
             child: Text('This is Profile Page'),
           )
